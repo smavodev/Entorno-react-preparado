@@ -1,7 +1,10 @@
 import React from 'react';
 
 const HelloWorld = () => (
-    <h1>Hola Mundo - React :)</h1>
+    <div>
+        <h1>Hola Mundo - React :).... </h1>
+        <img src="" alt="Demo"/>
+    </div>
 );
 
 export default HelloWorld;
